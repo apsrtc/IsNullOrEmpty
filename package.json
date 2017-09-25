@@ -1,0 +1,11 @@
+{
+  "name": "my-test-package",
+  "version": "1.0.0",
+  "description": "A cool test package for demonstration purposes",
+  "main": "index.js",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongoose": "^4.4.17"
+  }
+}
