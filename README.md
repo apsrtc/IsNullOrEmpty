@@ -17,7 +17,3 @@ Then, require the package and use it like so:
     console.log(isNullOrEmpty(undefined)); // true
 
     console.log(isNullOrEmpty("Hello World")); // false
-
-## License
-
-Apache 2.0
