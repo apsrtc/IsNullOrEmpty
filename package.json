@@ -1,6 +1,6 @@
 {
   "name": "my-test-package",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "A cool test package for demonstration purposes",
   "main": "index.js",
   "license": "Apache-2.0",
