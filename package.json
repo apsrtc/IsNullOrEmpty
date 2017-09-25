@@ -1,5 +1,5 @@
 {
-  "name": "IsNullOrEmpty",
+  "name": "mytestpackage",
   "version": "0.1.1",
   "description": "A cool test package for demonstration purposes",
   "main": "index.js",
