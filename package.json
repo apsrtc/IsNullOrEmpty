@@ -2,8 +2,7 @@
   "name": "mytestpackage",
   "version": "0.1.1",
   "description": "A cool test package for demonstration purposes",
-  "main": "index.js",
-  "license": "Apache-2.0",
+  "main": "index.js",  
   "dependencies": {
     "express": "^4.13.4",
     "mongoose": "^4.4.17"
